@@ -54,3 +54,5 @@ venv/
 
 # PyPI configuration file
 .pypirc
+*.parquet
+*.zip
